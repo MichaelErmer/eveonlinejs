@@ -1,0 +1,39 @@
+{
+  "alliances": {
+    "664570058": {
+      "name": "Flying Dangerous",
+      "shortName": "FIGL",
+      "allianceID": "664570058",
+      "executorCorpID": "633930933",
+      "memberCount": "1108",
+      "startDate": "2009-07-06 18:17:00",
+      "memberCorporations": {
+        "633930933": {"corporationID": "633930933", "startDate": "2009-07-06 18:17:00"},
+        "1214558064": {"corporationID": "1214558064", "startDate": "2009-07-07 18:57:00"},
+        "1646129182": {"corporationID": "1646129182", "startDate": "2009-07-07 18:57:00"}
+      }
+    },
+    "1438160193": {
+      "name": "Ev0ke",
+      "shortName": "EV0KE",
+      "allianceID": "1438160193",
+      "executorCorpID": "1844499995",
+      "memberCount": "1067",
+      "startDate": "2007-04-19 17:57:00",
+      "memberCorporations": {
+        "252480084": {"corporationID": "252480084", "startDate": "2009-06-24 14:56:00"},
+        "168762676": {"corporationID": "168762676", "startDate": "2011-12-15 20:06:00"},
+        "146756196": {"corporationID": "146756196", "startDate": "2009-09-01 15:59:00"},
+        "147849586": {"corporationID": "147849586", "startDate": "2011-12-17 14:18:00"},
+        "148763686": {"corporationID": "148763686", "startDate": "2010-07-19 17:11:00"},
+        "1047723877": {"corporationID": "1047723877", "startDate": "2010-08-05 19:33:00"},
+        "1639231548": {"corporationID": "1639231548", "startDate": "2011-04-26 09:40:00"},
+        "1650726986": {"corporationID": "1650726986", "startDate": "2009-04-06 12:09:00"},
+        "1844499995": {"corporationID": "1844499995", "startDate": "2009-04-27 21:57:00"},
+        "98120033": {"corporationID": "98120033", "startDate": "2012-06-17 07:21:00"}
+      }
+    }
+  },
+  "currentTime": "2012-09-09 07:19:52",
+  "cachedUntil": "2012-09-09 07:57:14"
+}

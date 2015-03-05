@@ -1,0 +1,79 @@
+{
+  "callGroups": {
+    "1": {
+      "groupID": "1",
+      "name": "Account and Market",
+      "description": "Market Orders, account balance and journal history."
+    },
+    "7": {
+      "groupID": "7",
+      "name": "Communications",
+      "description": "Private communications such as contact lists, Eve Mail and Notifications."
+    },
+    "5": {
+      "groupID": "5",
+      "name": "Corporation Members",
+      "description": "Member information for Corporations."
+    }
+  },
+  "calls": {
+    "8:Character": {
+      "accessMask": "8",
+      "type": "Character",
+      "name": "CharacterSheet",
+      "groupID": "3",
+      "description": "Character Sheet information. Contains basic'Show Info'information along with clones, account balance, implants, attributes, skills, certificates and corporation roles."
+    },
+    "4:Character": {
+      "accessMask": "4",
+      "type": "Character",
+      "name": "CalendarEventAttendees",
+      "groupID": "3",
+      "description": "Event attendee responses. Requires UpcomingCalendarEvents to function."
+    },
+    "2:Character": {
+      "accessMask": "2",
+      "type": "Character",
+      "name": "AssetList",
+      "groupID": "3",
+      "description": "Entire asset list of character."
+    },
+    "1:Character": {
+      "accessMask": "1",
+      "type": "Character",
+      "name": "AccountBalance",
+      "groupID": "1",
+      "description": "Current balance of characters wallet."
+    },
+    "8:Corporation": {
+      "accessMask": "8",
+      "type": "Corporation",
+      "name": "CorporationSheet",
+      "groupID": "3",
+      "description": "Exposes basic'Show Info'information as well as Member Limit and basic division and wallet info."
+    },
+    "4:Corporation": {
+      "accessMask": "4",
+      "type": "Corporation",
+      "name": "MemberMedals",
+      "groupID": "5",
+      "description": "List of medals awarded to corporation members."
+    },
+    "2:Corporation": {
+      "accessMask": "2",
+      "type": "Corporation",
+      "name": "AssetList",
+      "groupID": "3",
+      "description": "List of all corporation assets."
+    },
+    "1:Corporation": {
+      "accessMask": "1",
+      "type": "Corporation",
+      "name": "AccountBalance",
+      "groupID": "1",
+      "description": "Current balance of all corporation accounts."
+    }
+  },
+  "currentTime": "2012-02-23 03:51:40",
+  "cachedUntil": "2012-02-23 03:51:40"
+}

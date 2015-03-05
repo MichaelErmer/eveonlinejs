@@ -1,0 +1,27 @@
+{
+  "name": "eveonlinejs",
+  "version": "0.0.1",
+  "description": "EVE Online API client for Node.js",
+  "keywords": ["eve online api", "eve api", "eve online", "eve"],
+  "homepage": "https://github.com/MichaelErmer/eveonlinejs",
+  "author": {
+    "name": "Michael Ermer",
+    "email": "michael.ermer@ermer.de",
+    "url": "https://www.ermer.de/"
+  },
+  "main": "./lib/eveonline.js",
+  "dependencies": {
+    "sax": "0.4.x"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/MichaelErmer/eveonlinejs.git"
+  },
+  "devDependencies": {
+    "mocha": "1.3.x"
+  },
+  "scripts": {
+    "test": "mocha -u qunit --recursive"
+  },
+  "license":"MIT"
+}

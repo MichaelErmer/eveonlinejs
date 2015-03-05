@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<eveapi version="2">
+	<currentTime>2012-09-09 07:19:52</currentTime>
+	<result>
+		<rowset name="alliances" key="allianceID" columns="name,shortName,allianceID,executorCorpID,memberCount,startDate">
+			<row name="Flying Dangerous" shortName="FIGL" allianceID="664570058" executorCorpID="633930933" memberCount="1108" startDate="2009-07-06 18:17:00">
+				<rowset name="memberCorporations" key="corporationID" columns="corporationID,startDate">
+					<row corporationID="633930933" startDate="2009-07-06 18:17:00"/>
+					<row corporationID="1214558064" startDate="2009-07-07 18:57:00"/>
+					<row corporationID="1646129182" startDate="2009-07-07 18:57:00"/>
+				</rowset>
+			</row>
+			<row name="Ev0ke" shortName="EV0KE" allianceID="1438160193" executorCorpID="1844499995" memberCount="1067" startDate="2007-04-19 17:57:00">
+				<rowset name="memberCorporations" key="corporationID" columns="corporationID,startDate">
+					<row corporationID="252480084" startDate="2009-06-24 14:56:00"/>
+					<row corporationID="168762676" startDate="2011-12-15 20:06:00"/>
+					<row corporationID="146756196" startDate="2009-09-01 15:59:00"/>
+					<row corporationID="147849586" startDate="2011-12-17 14:18:00"/>
+					<row corporationID="148763686" startDate="2010-07-19 17:11:00"/>
+					<row corporationID="1047723877" startDate="2010-08-05 19:33:00"/>
+					<row corporationID="1639231548" startDate="2011-04-26 09:40:00"/>
+					<row corporationID="1650726986" startDate="2009-04-06 12:09:00"/>
+					<row corporationID="1844499995" startDate="2009-04-27 21:57:00"/>
+					<row corporationID="98120033" startDate="2012-06-17 07:21:00"/>
+				</rowset>
+			</row>
+		</rowset>
+	</result>
+	<cachedUntil>2012-09-09 07:57:14</cachedUntil>
+</eveapi>

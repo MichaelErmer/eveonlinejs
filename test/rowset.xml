@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eveapi version="2">
+	<result>
+		<foo>Foo</foo>
+		<bar>Bar</bar>
+		<rowset name="stuffs" key="stuffID" columns="stuffID,stuffName">
+			<row stuffID="1" stuffName="herp" />
+			<row stuffID="2" stuffName="derp" />
+		</rowset>
+	</result>
+</eveapi>

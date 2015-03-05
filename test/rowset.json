@@ -1,0 +1,8 @@
+{
+  "foo": "Foo",
+  "bar": "Bar",
+  "stuffs": {
+    "1": {"stuffID": "1", "stuffName": "herp"},
+    "2": {"stuffID": "2", "stuffName": "derp"}
+  }
+}
