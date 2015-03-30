@@ -1,5 +1,7 @@
 # eveonline.js [![](https://secure.travis-ci.org/MichaelErmer/eveonlinejs.png)](http://travis-ci.org/#!/MichaelErmer/eveonlinejs)
 
+[![Join the chat at https://gitter.im/MichaelErmer/eveonlinejs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MichaelErmer/eveonlinejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **An asynchronous EVE Online API client for Node.js** 
 
 - no function mapping
