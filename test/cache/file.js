@@ -8,13 +8,13 @@ suite('eveonlinejs.cache.FileCache')
 test('#getFilePath() returns path to cache entry', function () {
   var cache = new FileCache({path: '/tmp'})
 
-  assert.equal(cache.getFilePath('herp'), '/tmp/dc/bc/dcbc8f63b06c899b9db957f0e03466860fce8056')
+  assert.equal(cache.getFilePath('herp'), path.sep + 'tmp' + path.sep + 'dc' + path.sep + 'bc' + path.sep + 'dcbc8f63b06c899b9db957f0e03466860fce8056')
 })
 
 test('#getFilePath() prepends prefix to file name', function () {
   var cache = new FileCache({path: '/tmp', prefix: 'herp-'})
 
-  assert.equal(cache.getFilePath('derp'), '/tmp/e0/57/herp-e057d4ea363fbab414a874371da253dba3d713bc')
+  assert.equal(cache.getFilePath('derp'), path.sep + 'tmp' + path.sep + 'e0' + path.sep + '57' + path.sep + 'herp-e057d4ea363fbab414a874371da253dba3d713bc')
 })
 
 test('#makeDirs() recursively creates directories', function (done) {
