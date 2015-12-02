@@ -3,11 +3,7 @@
 	<result>
     <rowset name="notifications" key="notificationID" columns="notificationID">
       <row notificationID="9001">
-        <![CDATA[applicationText: 'herp
-  derp'
-  charID: 9002
-  corpID: 1337
-]]>
+        <![CDATA[applicationText: 'herp derp' charID: 9002 corpID: 1337]]>
       </row>
     </rowset>
 	</result>

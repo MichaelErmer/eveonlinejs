@@ -2,7 +2,7 @@
   "notifications": {
     "9001": {
       "notificationID": "9001",
-      "cdata": "applicationText: 'herp\r\n  derp'\r\n  charID: 9002\r\n  corpID: 1337\r\n"
+      "cdata": "applicationText: 'herp derp' charID: 9002 corpID: 1337"
     }
   }
 }
