@@ -11,7 +11,7 @@
   },
   "main": "./lib/eveonline.js",
   "dependencies": {
-    "sax": "0.4.x"
+    "sax": "0.5.x"
   },
   "repository": {
     "type":"git",

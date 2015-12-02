@@ -150,6 +150,20 @@ test('#parse() can parse mutli-keyed rowsets', function (done) {
   })
 })
 
+test('#parse() can parse cdata', function (done) {
+  var client = new Client()
+
+  fs.readFile(__dirname + '/cdata.xml', function (err, xml) {
+    fs.readFile(__dirname + '/cdata.json', function (err, json) {
+      client.parse(xml, function (err, result) {
+        assert.ifError(err)
+        assert.deepEqual(result, JSON.parse(json))
+        done()
+      })
+    })
+  })
+})
+
 test('#parse() can parse error response', function (done){
   var client = new Client()
 

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eveapi version="2">
+	<result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="9001">
+        <![CDATA[applicationText: 'herp derp' charID: 9002 corpID: 1337]]>
+      </row>
+    </rowset>
+	</result>
+</eveapi>

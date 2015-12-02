@@ -1,0 +1,8 @@
+{
+  "notifications": {
+    "9001": {
+      "notificationID": "9001",
+      "cdata": "applicationText: 'herp derp' charID: 9002 corpID: 1337"
+    }
+  }
+}
