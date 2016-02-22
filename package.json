@@ -1,6 +1,6 @@
 {
   "name": "eveonlinejs",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "EVE Online API client for Node.js",
   "keywords": ["eve online api", "eve api", "eve online", "eve"],
   "homepage": "https://github.com/MichaelErmer/eveonlinejs",
