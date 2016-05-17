@@ -72,6 +72,13 @@ var eveonlinejs = require('eveonlinejs')
 eveonlinejs.setCache(new eveonlinejs.cache.FileCache({path: '...'}))
 ```
 
+### Multiple outgoing addresses
+
+```javascript
+eveonlinejs.setInterface('123.123.123.123');
+```
+
+
 ### Tests
 
 eveonline.js is mostly tested, but not completely. Any contributions, especially to tests are greatly appreciated.
