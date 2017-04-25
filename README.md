@@ -1,5 +1,7 @@
 # eveonline.js [![](https://secure.travis-ci.org/MichaelErmer/eveonlinejs.png)](http://travis-ci.org/#!/MichaelErmer/eveonlinejs)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MichaelErmer/eveonlinejs.svg)](https://greenkeeper.io/)
+
 
 **An asynchronous EVE Online API client for Node.js** 
 
