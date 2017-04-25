@@ -1,4 +1,4 @@
-# eveonline.js [![](https://secure.travis-ci.org/MichaelErmer/eveonlinejs.png)](http://travis-ci.org/#!/MichaelErmer/eveonlinejs)
+# eveonline.js [![Build Status](https://travis-ci.org/MichaelErmer/eveonlinejs.svg?branch=master)](https://travis-ci.org/MichaelErmer/eveonlinejs)
 
 
 **An asynchronous EVE Online API client for Node.js** 
